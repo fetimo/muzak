@@ -1,0 +1,15 @@
+{
+  "name": "mybot",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "debug": "~2.0.0",
+    "lastfmapi": "^0.1.1",
+    "lodash": "^4.13.1",
+    "mongoose": "3.8.24",
+    "sfacts": "latest",
+    "slack-client": "~1.2.2",
+    "spotify-web-api-node": "^2.3.0",
+    "superscript": "latest"
+  }
+}
