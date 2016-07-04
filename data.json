@@ -9,7 +9,7 @@
         }
     },
     "gambits": {
-        "XKG7a2cP": {
+        "0dsipaJa": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -19,144 +19,13 @@
                 "filter": false
             },
             "replys": [
-                "kaqrO5K5"
-            ],
-            "redirect": null,
-            "trigger": "My(?:\\s*user\\s*|\\s*name\\s*|\\s*username\\s*|\\s*login\\s*|\\s*)is (\\S+(?:\\s+\\S+){0})",
-            "raw": "My [user|name|username|login] is *1"
-        },
-        "bGJny6rY": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "iIb1DSEc",
-                "zovacfrn",
-                "1LnP6HQG"
-            ],
-            "redirect": null,
-            "trigger": "~emothanks",
-            "raw": "~emothanks"
-        },
-        "JOWcBcAD": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "R34VOHmg"
-            ],
-            "redirect": null,
-            "trigger": "(?:.*\\s?)\\b(\\brecent\\b|\\blatest\\b|\\blast\\b)\\s?\\b(?:.*\\s?)",
-            "raw": "* (recent|latest|last) *"
-        },
-        "2Kd03MVQ": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "xdEAJsuV"
-            ],
-            "redirect": null,
-            "trigger": "Play it",
-            "raw": "Play it"
-        },
-        "yOM0WTJp": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "PlxIJEUE"
-            ],
-            "redirect": null,
-            "trigger": "Play(?:\\s*(?:.*\\s?)\\s*|\\s*)(\\blike\\b|\\bsimilar\\b|\\bakin\\b)\\s? ((?:\\(?\\~?[\\w-:]+\\??\\.?\\,?\\s*\\~?\\)?){1,20})\\s?",
-            "raw": "Play [*] (like|similar|akin) *(1-20)"
-        },
-        "OnhPStiV": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "2a70I11m"
-            ],
-            "redirect": null,
-            "trigger": "Play ((?:\\(?\\~?[\\w-:]+\\??\\.?\\,?\\s*\\~?\\)?){1,20})\\s?",
-            "raw": "Play *(1-20)"
-        },
-        "sOun9sXC": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "K4tCZ9Gq",
-                "dySSIju3"
-            ],
-            "redirect": null,
-            "trigger": "~yes",
-            "raw": "~yes"
-        },
-        "GAWtkm7P": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "n3HJAF4l"
-            ],
-            "redirect": null,
-            "trigger": "~no",
-            "raw": "~no"
-        },
-        "u8p3nfNl": {
-            "topic": "random",
-            "options": {
-                "isQuestion": false,
-                "qType": false,
-                "isConditional": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "Cb7z7t3M"
+                "9I38hvNy"
             ],
             "redirect": null,
             "trigger": "~emohello",
             "raw": "~emohello"
         },
-        "iBbgCkG6": {
+        "fnWp0LHK": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -166,7 +35,154 @@
                 "filter": false
             },
             "replys": [
-                "Jy3PRAxQ"
+                "y5GOxHIf"
+            ],
+            "redirect": null,
+            "trigger": "My(?:\\s*user\\s*|\\s*name\\s*|\\s*username\\s*|\\s*login\\s*|\\s*)is (\\S+(?:\\s+\\S+){0})",
+            "raw": "My [user|name|username|login] is *1"
+        },
+        "fh2iXdSb": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "NSTxRLRf",
+                "Txy1JTPk",
+                "3SuGMru7"
+            ],
+            "redirect": null,
+            "trigger": "~emothanks",
+            "raw": "~emothanks"
+        },
+        "ACAAxC9q": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "mccpgeuB"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)\\b(\\brecent\\b|\\blatest\\b|\\blast\\b|\\blistening\\b|\\blistened\\b)\\s?\\b(?:.*\\s?)",
+            "raw": "* (recent|latest|last|listening|listened) *"
+        },
+        "rb2jYZd5": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "z8rRhqG9"
+            ],
+            "redirect": null,
+            "trigger": "Play it",
+            "raw": "Play it"
+        },
+        "0ZmI5eDw": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "HO6OCGh1"
+            ],
+            "redirect": null,
+            "trigger": "Play(?:\\s*(?:.*\\s?)\\s*|\\s*)(\\blike\\b|\\bsimilar\\b|\\bakin\\b)\\s? ((?:\\(?\\~?[\\w-:]+\\??\\.?\\,?\\s*\\~?\\)?){1,20})\\s?",
+            "raw": "Play [*] (like|similar|akin) *(1-20)"
+        },
+        "4bzTMkHJ": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "8r09QL2r"
+            ],
+            "redirect": null,
+            "trigger": "Play ((?:\\(?\\~?[\\w-:]+\\??\\.?\\,?\\s*\\~?\\)?){1,20})\\s?",
+            "raw": "Play *(1-20)"
+        },
+        "1ackl9Ym": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "vtM9y00S",
+                "RKBisCcr"
+            ],
+            "redirect": null,
+            "trigger": "~yes",
+            "raw": "~yes"
+        },
+        "ebT5JRFz": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "8OX2f5Dn"
+            ],
+            "redirect": null,
+            "trigger": "~no",
+            "raw": "~no"
+        },
+        "aJBFqzI9": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "WafTWgcL"
+            ],
+            "redirect": null,
+            "trigger": "~emohello",
+            "raw": "~emohello"
+        },
+        "vsxLxJJG": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "ONfL8CwM"
             ],
             "redirect": null,
             "trigger": "~emogoodbye",
@@ -175,21 +191,22 @@
     },
     "convos": {},
     "replys": {
-        "kaqrO5K5": "{keep} Hello <cap>! ^save(firstName, <cap>)",
-        "iIb1DSEc": "You're welcome",
-        "zovacfrn": "No problem",
-        "1LnP6HQG": "My pleasure",
-        "R34VOHmg": "{keep} ^getRecentTracks()",
-        "xdEAJsuV": "^searchAndPlayRecentTrack()",
-        "PlxIJEUE": "{keep} ^getSimilarTrack(<cap>)",
-        "2a70I11m": "{keep} ^searchTracks(<cap1>, true)",
-        "K4tCZ9Gq": "Okay, good.",
-        "dySSIju3": "Glad to hear it.",
-        "n3HJAF4l": "^searchTracks(<p1cap1>, false)",
-        "Cb7z7t3M": "{keep} ~emohello ^get(firstName). Nice to see you again!",
-        "Jy3PRAxQ": "Happy listening!"
+        "9I38hvNy": "Hi there!",
+        "y5GOxHIf": "{keep} Hello <cap>! ^save(firstName, <cap>)",
+        "NSTxRLRf": "You're welcome",
+        "Txy1JTPk": "No problem",
+        "3SuGMru7": "My pleasure",
+        "mccpgeuB": "{keep} ^getRecentTracks()",
+        "z8rRhqG9": "^searchAndPlayRecentTrack()",
+        "HO6OCGh1": "{keep} ^getSimilarTrack(<cap>)",
+        "8r09QL2r": "{keep} ^searchTracks(<cap1>, true)",
+        "vtM9y00S": "Okay, good.",
+        "RKBisCcr": "Glad to hear it.",
+        "8OX2f5Dn": "^searchTracks(<p1cap1>, false)",
+        "WafTWgcL": "{keep} ~emohello ^get(firstName). Nice to see you again!",
+        "ONfL8CwM": "Happy listening!"
     },
     "checksums": {
-        "./topics/main.ss": "cd798c7c172dfccbae65eb8243f4399da2c4e88e"
+        "./topics/main.ss": "ea5705b08cf4d41c58da051e99255b42154642e7"
     }
 }

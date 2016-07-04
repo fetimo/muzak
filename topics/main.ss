@@ -8,11 +8,11 @@
     - No problem
     - My pleasure
 
-    + * (recent|latest|last) *
+    + * (recent|latest|last|listening|listened) *
     - {keep} ^getRecentTracks()
 
     + Play it
-    % * (recent|latest|last) *
+    % * (recent|latest|last|listening|listened) *
     - ^searchAndPlayRecentTrack()
 
     + Play [*] (like|similar|akin) *(1-20)
@@ -30,12 +30,10 @@
     % Play *(1-20)
     - ^searchTracks(<p1cap1>, false)
 
-    + ~emohello
+     + ~emohello
     - {keep} ~emohello ^get(firstName). Nice to see you again!
 
     + ~emogoodbye
     - Happy listening!
-
-
 
 < topic
